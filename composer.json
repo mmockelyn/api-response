@@ -1,5 +1,5 @@
 {
-    "name": "obiefy/api-response",
+    "name": "mmockelyn/api-response",
     "type": "library",
     "description": "Simple Laravel package to return Json responses.",
     "keywords": [
